@@ -29,9 +29,10 @@ a = int(input())
 print("Square root of the number:",newton_method(a))
 
 ```
-
 ## Output:
-![square root of a number](square.png)
+![Screenshot from 2023-01-03 20-31-28](https://user-images.githubusercontent.com/118787261/210386421-3fe3c808-84d8-452f-b79e-291c6f776e6d.png)
+
+
 
 
 ## Result:
